@@ -1,4 +1,4 @@
-//const cardiconButton = document.querySelectorAll(".icon_btn");
+
 const icon = document.querySelectorAll(".fa-heart");
 const searchButton = document.querySelector(".search_btn");
 const searchBox = document.querySelector(".input_search");
